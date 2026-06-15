@@ -1,5 +1,3 @@
-# sales-insights-dashboard
-Sales analysis project using Python and Power BI
 # 📊 Sales Insights Dashboard
 
 ## 📌 Project Overview
